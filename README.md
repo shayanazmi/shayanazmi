@@ -1,3 +1,4 @@
+![My GitHub Game](game.gif)
 ## Hi there 👋
 
 <!--
